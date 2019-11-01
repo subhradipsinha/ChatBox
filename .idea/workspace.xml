@@ -16,6 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Subhradip Sinha &lt;subhradip.sinha@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RH7oz2UkxmnWVlyIn0AvudueVd" />
@@ -116,8 +121,16 @@
       <workItem from="1569843184612" duration="1443000" />
       <workItem from="1569844776795" duration="295000" />
       <workItem from="1572585079233" duration="192000" />
-      <workItem from="1572585346458" duration="557000" />
+      <workItem from="1572585346458" duration="845000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1572586170966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572586170966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
