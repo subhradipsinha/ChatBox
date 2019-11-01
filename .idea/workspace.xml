@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8c0fb41-35cf-4d4e-bb50-b83cd027a8d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RH7oz2UkxmnWVlyIn0AvudueVd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Sw\demo_Study_Gallery_com\src\main\resources" />
+      <recent name="C:\Users\admin\Desktop\demo_Study_Gallery_com\src\main\resources" />
+      <recent name="C:\Users\admin\Desktop\demo_Study_Gallery_com\src\main\java" />
+      <recent name="C:\Users\admin\Desktop\demo_Study_Gallery_com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PageObject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Sw\demo_Study_Gallery_com\Driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Chatbox_verified" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo_Study_Gallery_com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.TestCase.Chatbox_verified" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Chatbox_verified" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8c0fb41-35cf-4d4e-bb50-b83cd027a8d1" name="Default Changelist" comment="" />
+      <created>1569312346953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569312346953</updated>
+      <workItem from="1569312351905" duration="10418000" />
+      <workItem from="1569414741137" duration="376000" />
+      <workItem from="1569415733655" duration="2333000" />
+      <workItem from="1569453362127" duration="651000" />
+      <workItem from="1569843184612" duration="1443000" />
+      <workItem from="1569844776795" duration="295000" />
+      <workItem from="1572585079233" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
